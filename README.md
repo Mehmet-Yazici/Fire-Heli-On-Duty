@@ -1,6 +1,6 @@
 # Fire-Heli-On-Duty
 
-Play this game at: https://b21727853.github.io/Fire-Heli-On-Duty/index.html
+Play this game at: https://mehmet-yazici.github.io/Fire-Heli-On-Duty/index.html
 
 This game  was made by me and 2 friends for our Computer Graphics Class
 It is written in html and javascript using three.js and webgl
